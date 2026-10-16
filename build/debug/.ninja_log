@@ -1,0 +1,11 @@
+# ninja log v7
+28	182	8138721003965820	CMakeFiles/elevator_lib.dir/source/libraries/elevator/src/elevator.cpp.obj	e1d92f4bb1d4a266
+113	2523	8138721004812952	CMakeFiles/elevator_app.dir/source/application/src/main.cpp.obj	30227f0833ca7cb6
+183	355	8138721005520842	elevator_lib.lib	45ff74cdb1c08429
+2525	2782	8138721028891075	elevator_app.exe	ce6a5b3fa4469c9
+6	347	8138734959034747	build.ninja	b68674636d1870e0
+6	347	8138734959034747	C:/Users/polok/cpp-practice/assignment-2/assignment-4/build/debug/cmake_install.cmake	b68674636d1870e0
+31	1309	8138734959706538	CMakeFiles/probe_app.dir/source/probe/src/main.cpp.obj	3d563de862c35221
+29	214	8138735140962380	probe_app.exe	6757a209c3b51e93
+23	1144	8138735140926442	CMakeFiles/elevator_app.dir/source/application/src/main.cpp.obj	30227f0833ca7cb6
+1145	1316	8138735152148890	elevator_app.exe	ce6a5b3fa4469c9

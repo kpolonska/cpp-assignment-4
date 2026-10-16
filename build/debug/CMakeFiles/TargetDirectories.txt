@@ -1,0 +1,5 @@
+C:/Users/polok/cpp-practice/assignment-2/assignment-4/build/debug/CMakeFiles/elevator_lib.dir
+C:/Users/polok/cpp-practice/assignment-2/assignment-4/build/debug/CMakeFiles/elevator_app.dir
+C:/Users/polok/cpp-practice/assignment-2/assignment-4/build/debug/CMakeFiles/probe_app.dir
+C:/Users/polok/cpp-practice/assignment-2/assignment-4/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/polok/cpp-practice/assignment-2/assignment-4/build/debug/CMakeFiles/rebuild_cache.dir
