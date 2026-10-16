@@ -43,7 +43,6 @@ void leave_early(bool stop)
 int main(int argc, char** argv)
 {
     Probe one{1};
-
     {
         Probe two{2};
         Probe copy = two;
